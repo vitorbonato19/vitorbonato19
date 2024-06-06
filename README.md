@@ -1,6 +1,11 @@
 # 🎈 GitHub Status
+<a href="https://github.com/vitorbonato19/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vitorbonato19&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/vitorbonato19/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorbonato19&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorbonato19&show_icons=true&theme=dark)
 
 # 💻 Languages and Tools
 
