@@ -1,8 +1,3 @@
-# 🎈 GitHub Status
-<a href="https://github.com/vitorbonato19/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vitorbonato19&show_icons=true&theme=dark" />
-</a>
-
 # 💻 Languages and Tools
 
 <div>
